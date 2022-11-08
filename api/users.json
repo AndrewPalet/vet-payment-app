@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Andrew",
+    "email": "andrew@gmail.com",
+    "password": "tex",
+    "visits": [
+      {
+        "id": 111,
+        "location": "SUPER PAWS",
+        "procedure": "ROUTINE CHECKUP",
+        "amountDue": 253,
+        "paid": true
+      },
+      {
+        "id": 112,
+        "location": "SUPER PAWS",
+        "procedure": "TEETH CLEANING",
+        "amountDue": 198,
+        "paid": true
+      },
+      {
+        "id": 113,
+        "location": "SUPER PAWS",
+        "procedure": "ROUTINE CHECKUP",
+        "amountDue": 499,
+        "paid": false
+      },
+      {
+        "id": 114,
+        "location": "SUPER PAWS",
+        "procedure": "TEETH CLEANING",
+        "amountDue": 103,
+        "paid": true
+      },
+      {
+        "id": 115,
+        "location": "SUPER PAWS",
+        "procedure": "ROUTINE CHECKUP",
+        "amountDue": 45,
+        "paid": false
+      }
+    ],
+    "pets": [
+      {
+        "id": 1,
+        "name": "Tex",
+        "profileUrl": "https://pics.me.me/funny-doberman-memes-imgurl-48733309.png"
+      },
+      {
+        "id": 2,
+        "name": "Bailey",
+        "profileUrl": "https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Andrew",
+    "email": "palet@gmail.com",
+    "password": "tex",
+    "visits": [
+      {
+        "id": 221,
+        "location": "SUPER PAWS",
+        "procedure": "ROUTINE CHECKUP",
+        "amountDue": 253,
+        "paid": true
+      }
+    ],
+    "pets": [
+      {
+        "id": 1,
+        "name": "Tex",
+        "profileUrl": "https://pics.me.me/funny-doberman-memes-imgurl-48733309.png"
+      },
+      {
+        "id": 2,
+        "name": "Bailey",
+        "profileUrl": "https://www.rd.com/wp-content/uploads/2020/11/GettyImages-889552354-e1606774439626.jpg"
+      }
+    ]
+  }
+]
