@@ -1,7 +1,7 @@
 <h1 align="center">Vet Payment App<h1>
 
 <p align="center">
-    <img width="800" src="https://giphy.com/gifs/XOtxbCL6NLcyQxC7rv" alt="vet-payment-gif" />
+    <img width="800" src="https://media.giphy.com/media/XOtxbCL6NLcyQxC7rv/giphy.gif" alt="vet-payment-gif" />
 </p>
 
 
